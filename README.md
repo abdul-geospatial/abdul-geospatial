@@ -1,5 +1,6 @@
-![image](https://github.com/abdul-geospatial/abdul-geospatial/assets/150539168/a8e13e44-21b7-4cce-9f73-8d884dfe2ccf)![image](https://github.com/abdul-geospatial/abdul-geospatial/assets/150539168/70269021-49f9-451a-b80b-30a35c33a04b)About
-I am currently an Assistant Professor in the School of Computing and Augmented Intelligence at Arizona State University. My research focuses on developing machine learning systems for real-world data and use cases.!
+About
+I am currently an Assistant Professor in the School of Computing and Augmented Intelligence at Arizona State University. My research focuses on developing machine learning systems for real-world data and use cases.!![image](https://github.com/abdul-geospatial/abdul-geospatial/assets/150539168/899220a5-be90-4bea-9763-f3ee906ade22)
+
  This includes remote sensing and spatial datasets, fairness (particularly w.r.t. geographic bias), scientific discovery and exploration, agriculture and food security, and other topics. I am the AI/Machine Learning Lead for NASA Harvest and NASA Acres as well as Center Faculty for the ASU Center for Global Discovery and Conservation Science (GDCS). I was recognized on the Forbes 30 Under 30 list in Science in 2021. I also write and speak about challenges for developing AI/ML applications for real world problems, such as in this recent article in MIT Technology Review.
 
 
